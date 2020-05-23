@@ -1,0 +1,17 @@
+[19-Dec-2019 14:48:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function died() in /home4/pitchaiah/smartrarts.com/contact.php:161
+Stack trace:
+#0 {main}
+  thrown in /home4/pitchaiah/smartrarts.com/contact.php on line 161
+[19-Dec-2019 14:49:06 America/Chicago] PHP Warning:  preg_match(): Empty regular expression in /home4/pitchaiah/smartrarts.com/contact.php on line 158
+[19-Dec-2019 14:49:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function died() in /home4/pitchaiah/smartrarts.com/contact.php:172
+Stack trace:
+#0 {main}
+  thrown in /home4/pitchaiah/smartrarts.com/contact.php on line 172
+[19-Dec-2019 14:49:35 America/Chicago] PHP Warning:  preg_match(): Empty regular expression in /home4/pitchaiah/smartrarts.com/contact.php on line 158
+[19-Dec-2019 14:49:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function died() in /home4/pitchaiah/smartrarts.com/contact.php:172
+Stack trace:
+#0 {main}
+  thrown in /home4/pitchaiah/smartrarts.com/contact.php on line 172
+[19-Dec-2019 14:50:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/pitchaiah/smartrarts.com/contact.php:1) in /home4/pitchaiah/smartrarts.com/contact.php on line 177
+[19-Dec-2019 17:52:08 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home4/pitchaiah/smartrarts.com/contact.php on line 154
+[19-Dec-2019 17:52:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/pitchaiah/smartrarts.com/contact.php on line 182
